@@ -95,8 +95,9 @@ Chat2Me is [Sold Open v0.2](https://soldopen.org/): you pay for access, not for 
 - The H3 files from [Comfy-Org/MiniMax-H3](https://huggingface.co/Comfy-Org/MiniMax-H3), which you download yourself
   under the MiniMax H3 Community License. As of October 2026 it does not cover the United States, the European Union,
   the United Kingdom or South Korea; read it before you download.
-- A director: [Ollama](https://ollama.com) (`gemma4:12b` by default), or the `claude` CLI, which sends the story to
-  Anthropic and bills your account.
+- A director: [Ollama](https://ollama.com) (`gemma4:12b` by default), [LM Studio](https://lmstudio.ai) or another
+  OpenAI-compatible server (Unsloth Studio, llama.cpp, vLLM), or the `claude` CLI, which sends the story to Anthropic
+  and bills your account.
 - `ffmpeg`, for publishing a film.
 
 Built and measured on one machine: an RTX 4070 12 GB with 31 GB of RAM, on Linux. There, on a community H3 turbo
