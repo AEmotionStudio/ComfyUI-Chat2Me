@@ -7,6 +7,9 @@ rendered on your own GPU.
 
 ![Chat2Me: a message holding up a picture of a glowing crystal, the reply card while its clip renders, and a frame of the reply: an elf ranger beside the crystal and two brass lanterns](https://github.com/AEmotionStudio/ComfyUI-Chat2Me/releases/download/assets-v1/chat2me_hero.png)
 
+[<img src="https://img.youtube.com/vi/CTZ0_IHsflQ/maxresdefault.jpg" width="100%">](https://youtu.be/CTZ0_IHsflQ)
+<p align="center"><i>How Chat2Me Works: From First Message to Film. (Click to watch on YouTube)</i></p>
+
 This repo is the front door: this README and the issue tracker. There is no code here. Chat2Me's code is in a private
 repo that sponsors get access to.
 
